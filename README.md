@@ -155,6 +155,12 @@ A `List<Transaction>` can iterate through both Income and Expense transactions a
 
 ---
 
+
+## Class Diagram
+
+![Class Diagram](Ledger.drawio.png)
+
+
 ## Conclusion
 
 This project demonstrates a professional understanding of C# OOP principles, generic programming, and type-safe architecture. The design ensures scalability, maintainability, and reduced runtime errors, making it suitable for real-world financial tracking systems.
